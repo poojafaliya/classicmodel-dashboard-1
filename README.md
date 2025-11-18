@@ -38,7 +38,7 @@ Clean, professional UI design
 
 classicmodels_dashboard.pbix → Complete dashboard
 
-Dataset/ folder → CSV or Excel files
+Dataset/ folder → zip file
 
 # 🚀 Tools Used
 
